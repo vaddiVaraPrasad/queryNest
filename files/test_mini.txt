@@ -1,0 +1,41 @@
+﻿Faculty 
+
+Dr. G.Varaprasad
+Professor , On Lien as Director, NBA, New Delhi.
+Ph.D(CSE)
+varaprasad.cse@bmsce.ac.in
+Research Interests: Mobile Ad hoc Networks, Wireless Sensor Networks, Vehicular Area Networks.
+
+
+
+Dr. Jyothi S Nayak
+Professor & HOD
+Ph.D.
+jyothinayak.cse@bmsce.ac.in
+Research Interests: Machine Learning, Computer Vision, Artificial Intelligence
+
+
+Dr. Prasad G R
+Professor
+Ph.D.
+prasad.cse@bmsce.ac.in
+Research Interests: Parallel computing
+
+
+Basavaraj Jakkali
+Associate Professor
+M.Tech
+jakkali.cse@bmsce.ac.in
+Research Interests: system Architecture
+Dr. Kavitha Sooda
+Associate Professor
+Ph.D.
+kavithas.cse@bmsce.ac.in
+Research Interests: Network Routing, Data Analytics, Pedagogy Methods, Evolutionary Algorithms.
+
+
+Dr. Kayarvizhy N
+Associate Professor
+Ph.D.
+kayarvizhyn.cse@bmsce.ac.in
+Research Interests: Software Quality Metrics, Machine learning, Internet of Things, Data Science

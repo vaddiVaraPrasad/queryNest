@@ -1,0 +1,19 @@
+langchain
+langchain_community
+langchainhub
+numexpr
+pymupdf
+beautifulsoup4
+lxml
+unstructured > /dev/null
+faiss-cpu
+watchdog
+streamlit
+transformers
+youtube-transcript-api
+pytube
+wikipedia
+python-dotenv
+google-search-results
+tabulate
+timm

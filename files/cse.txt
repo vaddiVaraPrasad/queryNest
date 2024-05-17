@@ -1,0 +1,197 @@
+﻿About Department
+The department of Computer Science and Engineering, B.M.S College of Engineering is a regionally and nationally renowned department in computer science and information technology since 1983. With the vision to produce professionals, researchers, innovators and entrepreneurs having ethics and social responsibilities,our focus is towards moulding the students with strong technical knowledge, research attitude and societal values.
+
+The syllabus of department of CSE has been designed by including core fundamental subjects, advanced and cutting-edge technologies which prepares the students for industries and higher studies. The department has well experienced and dedicated faculty team to deliver quality education to the students. The department has eighteen faculties with Ph.D.and others are pursuing. The department excels in academic performance and also in research activities.
+
+The students of CSE department are placed in various top MNCs like COHESITY, GOLDMAN SACHS, NUTANIX, ORACLE, ZENKEN, QUALCOMM, HONEYWELL, AKAMAI, etc. with an emolument in the range of4Lakhs to 27 Lakhs per annum. The department of CSE has good interactions and MOUs with leading information technology domain Industries like INFOSYS, GE, HPE etc.
+
+The department is committed to encourage students to carry out innovative research in trending technologies, keeping excellence in focus and to deliver quality services matching the needs of the technical education system, industry and society as per its Programme Educational Objectives. Apart from regular research, the faculty and student teams are involved in developing R&D projects for SAMSUNG, HPE, GE etc.
+
+The students are molded with multi-dimensional skill sets covering all the required graduate attributes. More focus is emphasized on practical learning, projects, and research. The students of the department get into the industry through placements majorly and there is a high inclination towards entrepreneurship and research. The department is supported by a large alumni group. Students are introduced to global challenges and encouraged to take up projects in this direction.
+Department Profile
+The department of Computer Science & Engineering started in the year 1983 with an intake of 60 students for the undergraduate programme. The intake was increased to 90 seats in 2000, to 120 in the year 2011 and to 180 in the year 2019. UG programme of the department was accredited by NBA from Jun-2004 to May 2007 for 3 years, Jul-2008 to Jun-2011 for 3 years, Jul-2014 to Jun-2017 for 3 years , Jul-2017 to Jun-2020 for 3 years, Jul-2020 to Jun-2021 for one year, Jul-2021 to Jun-2022 for one year, 2022-2025 for 3 years. The department of Computer Science & Engineering also has PG programme, M Tech (CSE) established in1993 with an intake of 18. PG programme of the department was accredited for 5 years from Jul-2017 to Jun-2022 and extended for 1 year period from July-2022 to Jun-2023. The Research Centre, Department of Computer Science & Engineering was started in the year 2010 under VTU, Belgaum. The research areas of the centre cover Machine learning, Cloud computing, Big data analytics, Wireless networks, Social networks analysis, Network Security, etc. Currently, there are twelve registered guides who are experts in fields like artificial intelligence, wireless networks, reconfiguration computing, data analytics etc. 22 of research scholars are awarded with Ph.D. and currently there are 59 research scholars working in the research centre.
+Vision
+To be a model centre for education and training in the frontier areas of Computer Science and Engineering.
+Mission
+The mission of Computer Science and Engineering department is to educate students in the areas of computer science by providing best practices of teaching-learning process for careers in software industry/higher education/research.
+Faculty 
+
+Dr. G.Varaprasad
+Professor , On Lien as Director, NBA, New Delhi.
+Ph.D(CSE)
+varaprasad.cse@bmsce.ac.in
+Research Interests: Mobile Ad hoc Networks, Wireless Sensor Networks, Vehicular Area Networks.
+
+
+
+
+
+Dr. Jyothi S Nayak
+Professor & HOD
+Ph.D.
+jyothinayak.cse@bmsce.ac.in
+Research Interests: Machine Learning, Computer Vision, Artificial Intelligence
+
+
+Dr. Prasad G R
+Professor
+Ph.D.
+prasad.cse@bmsce.ac.in
+Research Interests: Parallel computing
+
+
+Basavaraj Jakkali
+Associate Professor
+M.Tech
+jakkali.cse@bmsce.ac.in
+Research Interests: system Architecture
+Dr. Kavitha Sooda
+Associate Professor
+Ph.D.
+kavithas.cse@bmsce.ac.in
+Research Interests: Network Routing, Data Analytics, Pedagogy Methods, Evolutionary Algorithms.
+
+
+Dr. Kayarvizhy N
+Associate Professor
+Ph.D.
+kayarvizhyn.cse@bmsce.ac.in
+Research Interests: Software Quality Metrics, Machine learning, Internet of Things, Data Science
+
+
+Dr. Umadevi V
+Associate Professor
+Ph.D.
+umadevi.cse@bmsce.ac.in
+Research Interests: Image Processing, Machine Learning, Deep Learning
+Madhavi R.P.
+Associate Professor
+M.Tech,(Ph.D.)
+madhavi.cse@bmsce.ac.in
+Research Interests: Wireless Networks
+
+
+Antara Roy Choudhury
+Assistant Professor
+M. Tech, CSE
+antararc.cse@bmsce.ac.in
+Research Interests: Mobile App Development, Internet of Things, Data Mining, Social Network Analysis
+
+
+Dr. Asha G R
+Assistant Professor
+M.E. (CSE), Ph.D
+asha.cse@bmsce.ac.in
+Research Interests: Artificial Intelligence, Machine learning, Block Chain, Wireless Sensor Networks.
+
+
+Dr. K. Panimozhi
+Assistant Professor
+M.E., Ph.D.
+panimozhi.cse@bmsce.ac.in
+Research Interests: Quality of Service in Wireless Sensor Networks Internet of Things Big data Analytics
+
+
+Dr. Latha N.R.
+Assistant Professor
+Ph.D
+latha.cse@bmsce.ac.in
+Research Interests: Parallel Architecture, Algorithms
+
+
+
+
+Dr. Manjunath D R
+Assistant Professor
+Ph.D
+manjunathdr.cse@bmsce.ac.in
+Research Interests: Cryptography, Sensor Network Security, Cloud Computing.
+
+
+
+
+Dr. Pallavi G B
+Assistant Professor
+Ph.D (Cloud Computing)
+pallavi.cse@bmsce.ac.in
+Research Interests: Cloud Computing, Big Data and Analytics
+
+
+
+
+
+Dr. Rajeshwari B S
+Assistant Professor
+PhD
+rajeshwari.cse@bmsce.ac.in
+Research Interests: Cloud Computing, Programming Fundamentals, Algorithms, Data Science
+
+
+
+
+Dr. Seema patil
+Assistant Professor
+Ph.D.
+seemapatil.cse@bmsce.ac.in
+Research Interests: Data mining, Machine learning, Cloud computing
+
+
+
+
+Dr. Selva Kumar S
+Assistant Professor
+Ph.D.
+selva.cse@bmsce.ac.in
+Research Interests: Social Network Analysis, Data Science and Machine Learning.
+
+
+Dr. Shyamala G
+Assistant Professor
+Ph.D
+shyamala.cse@bmsce.ac.in
+Research Interests: Parallel Computing, Computer Architecture, Networks, Cloud Computing, Internet of Things
+
+
+
+Dr.Nandhini Vineeth
+Assistant Professor
+Ph.D.
+nandhiniv.cse@bmsce.ac.in
+Research Interests: Adhoc Networks- Vehicular Networks, Vehicular Communication
+
+
+Karanam Sunil Kumar
+Assistant Professor
+sunilkumark.cse@bmsce.ac.in
+Research Interests:
+
+
+
+
+Lohith J J
+Assistant Professor
+M.Tech, (Ph.D.)
+lohith.cse@bmsce.ac.in
+Research Interests: Blockchain, Cryptology, Computer Networks, Network Security.
+
+
+
+Namratha M
+Assistant Professor
+M.Tech (Ph.D)
+namratham.cse@bmsce.ac.in
+Research Interests: Cryptology, Blockchain Technology, Image Processing, Machine Learning
+
+
+Syed Akram
+Assistant Professor
+MTech(CSE), (PhD)
+syedakram.cse@bmsce.ac.in
+Research Interests: Intrusion Detection System
+
+
+Vikranth B.M
+Assistant Professor
+M.Tech
+vikranth.cse@bmsce.ac.in
+Research Interests: Data Science,Machine Learning.
